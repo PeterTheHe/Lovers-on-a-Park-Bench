@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.rb linguist-language=csharp
+*.rb linguist-language=Java
