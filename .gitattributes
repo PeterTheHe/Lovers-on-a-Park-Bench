@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.glsl linguist-language=csharp
+Assets/Standard Assets/* linguist-vendored
