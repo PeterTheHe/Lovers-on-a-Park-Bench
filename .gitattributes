@@ -15,5 +15,3 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-
-Assets/Standard Assets/Effects/ImageEffects/Shaders/* linguist-vendored
