@@ -16,4 +16,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-\Assets\Standard Assets\* linguist-vendored
+-Assets/Standard Assets/* linguist-vendored
